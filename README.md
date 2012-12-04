@@ -1,4 +1,1 @@
-AndroidAPP
-==========
-
-AndroidAPP
+                                                   这是我第一次使用github，希望上边能积累我学习android的点滴！2012年12月5日 00:09:36
